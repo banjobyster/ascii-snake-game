@@ -1,0 +1,32 @@
+{
+  "_comment": "Powers this repo's card on banjobyster.github.io. NOTE: needs a GitHub repo to host this folder — see scaffold/README.md. Wrap **words** to accent them.",
+  "schemaVersion": 1,
+
+  "title": "ASCII Snake",
+  "tagline": "The retro snake game in your console",
+  "description": "The **retro** snake game in ASCII, playable on the Windows console, made with C++.",
+  "highlights": [
+    "Runs in the Windows console",
+    "Written in C++"
+  ],
+
+  "category": "Game",
+  "tags": ["C++", "Console"],
+  "status": "complete",
+  "year": null,
+  "role": "Solo",
+
+  "demo": "https://banjobyster.itch.io/ascii-snake-game",
+  "repo": null,
+  "video": "",
+  "article": "",
+
+  "cover": "cover.png",
+  "thumbnail": "",
+  "gallery": [],
+
+  "order": 70,
+  "featured": true,
+  "pinned": false,
+  "accent": "rgba(230, 230, 250, 0.9)"
+}
